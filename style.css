@@ -4,5 +4,6 @@ h1{
     color: aqua;
 }
 body{
-    background: url(https://www.shutterstock.com/image-photo/bursting-galaxy-elements-this-image-furnished-1024633576);
+    background: url(https://image.shutterstock.com/image-photo/river-stream-waterfall-forest-landscape-260nw-1585363855.jpg);
+    background-size: cover;
 }
