@@ -7,9 +7,14 @@ body{
     background: url(https://image.shutterstock.com/image-photo/stunning-galaxy-elements-this-image-260nw-1717095772.jpg);
     background-size: cover;
     font-family: Georgia, 'Times New Roman', Times, serif;
-font-weight: 100px;
+font-weight: 200px;
 font-size:large;
 background-size:1800px;
-color: yellow;
+color: seashell;
     
+} 
+table{
+    border:4px solid yellowgreen;
+    background-image: url(https://astronomy.com/-/media/Images/News%20and%20Observing/Sky%20this%20Week/STW%202021/June/summerevening.jpg?mw=600);
+    background-size: cover;
 }
