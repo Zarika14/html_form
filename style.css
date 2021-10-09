@@ -1,7 +1,7 @@
 h1{
    
     font-size: 40px;
-    color:red;
+    color: darkred;
 }
 body{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ93LhD7IR--uvGXqfEQ471xcvQwqWTuDgkyg&usqp=CAU);
@@ -10,7 +10,7 @@ body{
 font-weight: 200px;
 font-size:large;
 background-size:1800px;
-color: yellow;
+color:yellow;
     
 } 
 table{
